@@ -13,3 +13,6 @@ If you're a designer (which you should be), you can solve this assignment yourse
 
 ### Other Versions
 Here's a list. Pull request to this list to add another version.
+
+## Trying My Version Out
+You can try my version out at: https://simon-tiger.github.io/wikipedia-crawler/wikipedia/.
